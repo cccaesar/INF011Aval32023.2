@@ -1,7 +1,9 @@
-package br.edu.inf011.aval3.enunciado.model;
+package enunciado.model;
 
 public interface Documento {
 	public String formatar();
+
 	public boolean validar();
+
 	public Integer pontuar();
 }
