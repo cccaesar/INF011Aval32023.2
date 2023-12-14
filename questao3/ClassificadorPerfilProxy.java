@@ -4,7 +4,7 @@ import enunciado.model.Perfil;
 import enunciado.model.service.Classificador;
 import enunciado.model.service.ClassificadorPerfil;
 import enunciado.model.service.NivelPerfil;
-
+//Proxy para o serviço ClassificadorPerfil
 public class ClassificadorPerfilProxy implements Classificador{
 
     private ClassificadorPerfil classificadorService;
