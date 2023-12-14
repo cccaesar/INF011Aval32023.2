@@ -1,5 +1,5 @@
 package enunciado.model;
-
+//Componente
 public interface Documento {
 	public String formatar();
 

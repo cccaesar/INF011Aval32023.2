@@ -2,7 +2,7 @@ package enunciado.model;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-
+//Componente Concreto
 public class CartaoCredito implements Documento {
 	public String nome;
 	public String numero;

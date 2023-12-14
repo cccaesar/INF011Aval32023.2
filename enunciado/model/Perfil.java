@@ -3,7 +3,7 @@ package enunciado.model;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Stream;
-
+//Componente Concreto
 public class Perfil {
 
 	private List<Documento> documentos;

@@ -1,7 +1,7 @@
 package enunciado.model;
 
 import java.util.regex.Pattern;
-
+//Componente Concreto
 public class EMail implements Documento {
 
 	public static final String REGEX = "^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$";

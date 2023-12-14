@@ -6,7 +6,7 @@ import enunciado.model.CPF;
 import enunciado.model.CartaoCredito;
 import enunciado.model.Documento;
 import enunciado.model.Perfil;
-
+//O Serviço
 public class ClassificadorPerfil implements Classificador {
 
 	private Perfil perfil;

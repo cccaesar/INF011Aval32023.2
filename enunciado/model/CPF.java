@@ -1,5 +1,5 @@
 package enunciado.model;
-
+//Componente Concreto
 public class CPF implements Documento {
 
 	public String nome;
